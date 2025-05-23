@@ -1,0 +1,35 @@
+Logging in build 2018.1.1.6 started at: Fri May 23 10:28:20 2025
+========================================
+Logging in build 2018.1.1.6 started at: Fri May 23 10:28:20 2025
+========================================
+Logging in build 2018.1.1.6 started at: Fri May 23 10:28:21 2025
+========================================
+Logging in build 2018.1.1.6 started at: Fri May 23 10:28:21 2025
+========================================
+
+==========
+Logging ended at: Fri May 23 10:28:25 2025
+
+
+==========
+Logging ended at: Fri May 23 10:28:25 2025
+
+
+==========
+Logging ended at: Fri May 23 10:28:25 2025
+
+
+==========
+Logging ended at: Fri May 23 10:28:26 2025
+
+Logging in build 2018.1.1.6 started at: Fri May 23 10:28:35 2025
+========================================
+[00:00:12.406] 10:28:48.582 | Error - IMS : No AdobeID signed in
+[00:01:17.140] 10:29:53.317 | Trying to open file 'C:\Users\Estudiantes\Downloads\Trabajo terminado de mí vieja Barranquilla .muse with size:17924096 mod Date:Fri May 23 10:28:06 GMT-0500 2025
+[00:01:17.203] 10:29:53.374 | Opening file 'C:\Users\Estudiantes\Downloads\Trabajo terminado de mí vieja Barranquilla .muse' with status:success size:17924096 mod Date:Fri May 23 10:28:06 GMT-0500 2025 highestUID: 9372
+[00:12:27.437] 10:41:03.611 | HTMLExport Trabajo terminado de mí vieja Barranquilla (27 pages) to 'barranquilla-360-historia.infinityfreeapp.com' completed with 5 warnings.
+[00:12:27.437] 10:41:03.611 | 91027:El formulario Formulario Contactos está configurado con una dirección de correo electrónico de  que no coincide con el nombre de servidor barranquilla-360-historia.infinityfreeapp.com. Algunos proveedores de alojamiento rechazan el envío de correo electrónico desde direcciones de correo de diferentes hosts. Si al enviar el formulario no se envía el correo electrónico correspondiente, cambie la primera dirección de correo electrónico que aparece en el formulario de Muse por una dirección de barranquilla-360-historia.infinityfreeapp.com y vuelva a intentarlo.
+[00:12:27.437] 10:41:03.611 | 91027:El formulario Formulario Contactos está configurado con una dirección de correo electrónico de  que no coincide con el nombre de servidor barranquilla-360-historia.infinityfreeapp.com. Algunos proveedores de alojamiento rechazan el envío de correo electrónico desde direcciones de correo de diferentes hosts. Si al enviar el formulario no se envía el correo electrónico correspondiente, cambie la primera dirección de correo electrónico que aparece en el formulario de Muse por una dirección de barranquilla-360-historia.infinityfreeapp.com y vuelva a intentarlo.
+[00:12:27.437] 10:41:03.611 | 91027:El formulario Formulario Contactos está configurado con una dirección de correo electrónico de  que no coincide con el nombre de servidor barranquilla-360-historia.infinityfreeapp.com. Algunos proveedores de alojamiento rechazan el envío de correo electrónico desde direcciones de correo de diferentes hosts. Si al enviar el formulario no se envía el correo electrónico correspondiente, cambie la primera dirección de correo electrónico que aparece en el formulario de Muse por una dirección de barranquilla-360-historia.infinityfreeapp.com y vuelva a intentarlo.
+[00:12:27.437] 10:41:03.611 | 91023:No se ha exportado el activo C:\Users\Estudiantes\Desktop\Flor cayena.pptx porque no se ha encontrado.
+[00:12:27.437] 10:41:03.611 | 91023:No se ha exportado el activo C:\Users\Estudiantes\Desktop\Bandera de Barranquilla.jpg porque no se ha encontrado.
